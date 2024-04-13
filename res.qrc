@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/img/WinUi.png</file>
+        <file>res/img/bak.jpg</file>
+        <file>res/img/Background.jpg</file>
+        <file>res/img/bak2.jpg</file>
+        <file>res/img/bak3.jpg</file>
+        <file>res/img/bak4.jpg</file>
+        <file>res/img/ok.jpg</file>
+        <file>res/img/Thanks.png</file>
+        <file>res/img/icon.ico</file>
+        <file>res/img/Add.png</file>
+        <file>res/img/Appreciate.png</file>
+        <file>res/img/Delete.png</file>
+        <file>res/img/Info.png</file>
+        <file>res/img/menu.png</file>
+        <file>res/img/menu_2.png</file>
+        <file>res/img/ReFresh.png</file>
+        <file>res/img/Search.png</file>
+        <file>res/img/UpDate.png</file>
+    </qresource>
+</RCC>
